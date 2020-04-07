@@ -1,0 +1,19 @@
+.box {
+    width: 100%;
+  height: auto;
+  max-width: 500%;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: block;
+  position: vertical;
+  overflow: hidden; 
+  text-align:center ;
+}
+
+.box img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
